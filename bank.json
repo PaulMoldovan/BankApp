@@ -1,0 +1,45 @@
+{
+    "1": {
+        "name": "Bogdan",
+        "telephone": "05493535324",
+        "city": "Timisoara",
+        "balance": 400
+    },
+    "2": {
+        "name": "Ysera",
+        "telephone": "543252345",
+        "city": "TM",
+        "balance": 0
+    },
+    "3": {
+        "name": "Andrei Grigore",
+        "telephone": "4432894324",
+        "city": "Bucuresti",
+        "balance": 0
+    },
+    "4": {
+        "name": "Cristian Python",
+        "telephone": "88888888",
+        "city": "Online",
+        "balance": 0
+    },
+    "5": {
+        "name": "George",
+        "telephone": "53452345",
+        "city": "Bucuresti",
+        "balance": 600
+    },
+    "6": {
+        "name": "Ioana",
+        "telephone": "432532455234",
+        "city": "London",
+        "balance": 0
+    },
+    "7": {
+        "name": "Michaela Moldovan",
+        "telephone": "7364567364",
+        "city": "Eppingen",
+        "balance": 10000
+    }
+
+}
